@@ -7,19 +7,19 @@
   <apn carrier="EHRPD - SPRINT OTA" mcc="310" mnc="120" apn="otasn" type="fota" protocol="IPV4V6" roaming_protocol="IPV4V6" />
   <apn carrier="EHRPD - SPRINT test ISP" mcc="001" mnc="01" apn="n.ispsn" type="default,mms" mmsc="http://mms.sprintpcs.com" mmsproxy="68.28.31.7" mmsport="80" protocol="IPV4V6" roaming_protocol="IPV4V6" />
   <apn carrier="EHRPD - SPRINT test ISP" mcc="001" mnc="010" apn="n.ispsn" type="default,mms" mmsc="http://mms.sprintpcs.com" mmsproxy="68.28.31.7" mmsport="80" protocol="IPV4V6" roaming_protocol="IPV4V6" />
-  <apn carrier="EHRPD - SPRINT test OTA" mcc="001" mnc="01" apn="otasn" type="fota"  protocol="IPV4V6" roaming_protocol="IPV4V6" />
-  <apn carrier="EHRPD - SPRINT test OTA" mcc="001" mnc="010" apn="otasn" type="fota"  protocol="IPV4V6" roaming_protocol="IPV4V6" />
-  <apn carrier="EHRPD - SPRINT test PAM" mcc="001" mnc="01" apn="pamsn" type="dun"  protocol="IPV4V6" roaming_protocol="IPV4V6" />
-  <apn carrier="EHRPD - SPRINT test PAM" mcc="001" mnc="010" apn="pamsn" type="dun"  protocol="IPV4V6" roaming_protocol="IPV4V6" />
-  <apn carrier="EHRPD - Virgin OTA" mcc="311" mnc="490" apn="otasn" type="fota"  protocol="IPV4V6" roaming_protocol="IPV4V6" />
-  <apn carrier="EHRPD - Wholesals OTA" mcc="310" mnc="000" apn="otasn" type="fota"  protocol="IPV4V6" roaming_protocol="IPV4V6" />
-  <apn carrier="LTE - SPRINT OTA" mcc="310" mnc="120" apn="otasn" type="fota"  protocol="IPV4V6" roaming_protocol="IPV4V6" />
+  <apn carrier="EHRPD - SPRINT test OTA" mcc="001" mnc="01" apn="otasn" type="fota" protocol="IPV4V6" roaming_protocol="IPV4V6" />
+  <apn carrier="EHRPD - SPRINT test OTA" mcc="001" mnc="010" apn="otasn" type="fota" protocol="IPV4V6" roaming_protocol="IPV4V6" />
+  <apn carrier="EHRPD - SPRINT test PAM" mcc="001" mnc="01" apn="pamsn" type="dun" protocol="IPV4V6" roaming_protocol="IPV4V6" />
+  <apn carrier="EHRPD - SPRINT test PAM" mcc="001" mnc="010" apn="pamsn" type="dun" protocol="IPV4V6" roaming_protocol="IPV4V6" />
+  <apn carrier="EHRPD - Virgin OTA" mcc="311" mnc="490" apn="otasn" type="fota" protocol="IPV4V6" roaming_protocol="IPV4V6" />
+  <apn carrier="EHRPD - Wholesals OTA" mcc="310" mnc="000" apn="otasn" type="fota" protocol="IPV4V6" roaming_protocol="IPV4V6" />
+  <apn carrier="LTE - SPRINT OTA" mcc="310" mnc="120" apn="otasn" type="fota" protocol="IPV4V6" roaming_protocol="IPV4V6" />
   <apn carrier="LTE - SPRINT test ISP" mcc="001" mnc="01" apn="n.ispsn" type="default,mms" mmsc="http://mms.sprintpcs.com" mmsproxy="68.28.31.7" mmsport="80" protocol="IPV4V6" roaming_protocol="IPV4V6" />
   <apn carrier="LTE - SPRINT test ISP" mcc="001" mnc="010" apn="n.ispsn" type="default,mms" mmsc="http://mms.sprintpcs.com" mmsproxy="68.28.31.7" mmsport="80" protocol="IPV4V6" roaming_protocol="IPV4V6" />
-  <apn carrier="LTE - SPRINT test OTA" mcc="001" mnc="01" apn="otasn" type="fota"  protocol="IPV4V6" roaming_protocol="IPV4V6" />
-  <apn carrier="LTE - SPRINT test OTA" mcc="001" mnc="010" apn="otasn" type="fota"  protocol="IPV4V6" roaming_protocol="IPV4V6" />
-  <apn carrier="LTE - SPRINT test PAM" mcc="001" mnc="01" apn="pamsn" type="dun"  protocol="IPV4V6" roaming_protocol="IPV4V6" />
-  <apn carrier="LTE - SPRINT test PAM" mcc="001" mnc="010" apn="pamsn" type="dun"  protocol="IPV4V6" roaming_protocol="IPV4V6" />
-  <apn carrier="LTE - Virgin OTA" mcc="311" mnc="490" apn="otasn" type="fota"  protocol="IPV4V6" roaming_protocol="IPV4V6" />
-  <apn carrier="LTE - Wholesales OTA" mcc="310" mnc="000" apn="otasn" type="fota"  protocol="IPV4V6" roaming_protocol="IPV4V6" />
+  <apn carrier="LTE - SPRINT test OTA" mcc="001" mnc="01" apn="otasn" type="fota" protocol="IPV4V6" roaming_protocol="IPV4V6" />
+  <apn carrier="LTE - SPRINT test OTA" mcc="001" mnc="010" apn="otasn" type="fota" protocol="IPV4V6" roaming_protocol="IPV4V6" />
+  <apn carrier="LTE - SPRINT test PAM" mcc="001" mnc="01" apn="pamsn" type="dun" protocol="IPV4V6" roaming_protocol="IPV4V6" />
+  <apn carrier="LTE - SPRINT test PAM" mcc="001" mnc="010" apn="pamsn" type="dun" protocol="IPV4V6" roaming_protocol="IPV4V6" />
+  <apn carrier="LTE - Virgin OTA" mcc="311" mnc="490" apn="otasn" type="fota" protocol="IPV4V6" roaming_protocol="IPV4V6" />
+  <apn carrier="LTE - Wholesales OTA" mcc="310" mnc="000" apn="otasn" type="fota" protocol="IPV4V6" roaming_protocol="IPV4V6" />
 </apns>
